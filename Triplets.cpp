@@ -1,3 +1,9 @@
+/*
+Problem: For given array and integer value, find all possible triplets pair which's total is equal to given integer value
+https://www.udemy.com/course/cpp-data-structures-algorithms-levelup-prateek-narang/learn/lecture/24429136#overview
+*/
+
+
 #include <iostream>
 #include <map>
 #include <vector>
